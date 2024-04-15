@@ -34,7 +34,7 @@ Once you have set these variables, you can run the program.
 Sample Payload to run inside Robocorp
 ```
 {
-  "url": "https://www.nytimes.com/",
+  "url": "https://www.apnews.com/",
   "search_phrase": "business",
   "number_of_months": 1,
   "category": [
